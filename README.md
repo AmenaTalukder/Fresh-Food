@@ -27,7 +27,8 @@ Horizontally scrollable with previous/next buttons
 
 Real-time interaction with each item
 
-![demu](https://github.com/user-attachments/assets/5a95b914-0fdf-4e3b-aa08-224ea8ce7974)
+![ImageToStl com_merged-document](https://github.com/user-attachments/assets/cf6cee45-239c-489c-ad40-01e721f69bca)
+
 
 
 # ✅ Ordering System Modal
