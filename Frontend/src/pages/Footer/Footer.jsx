@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="space-y-4">
           <div className="flex items-center space-x-2">
             <img src={Logo} alt="Logo" className="w-10 h-10 object-contain" />
-            <h1 className="text-xl font-bold text-gray-800">LearnFlow</h1>
+            <h1 className="text-xl font-bold text-gray-800">Fresh Food</h1>
           </div>
           <div className="flex items-center space-x-2 text-gray-800">
             <IoCall />
@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center space-x-2 text-gray-800">
             <MdAttachEmail />
-            <p>learnflow23@gmail.com</p>
+            <p>freshfood23@gmail.com</p>
           </div>
           <div className="flex space-x-3 text-gray-800 text-xl mt-4">
             <FaFacebook className="text-lime-500 hover:text-blue-600 transition" />
