@@ -27,7 +27,8 @@ Horizontally scrollable with previous/next buttons
 
 Real-time interaction with each item
 
-![ImageToStl com_merged-document](https://github.com/user-attachments/assets/cf6cee45-239c-489c-ad40-01e721f69bca)
+![Uploading screencapture-localhost-3000-2025-08-10-15_15_38.png…]()
+
 
 
 
