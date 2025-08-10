@@ -27,10 +27,6 @@ Horizontally scrollable with previous/next buttons
 
 Real-time interaction with each item
 
-![Uploading screencapture-localhost-3000-2025-08-10-15_15_38.png…]()
-
-
-
 
 # ✅ Ordering System Modal
 
